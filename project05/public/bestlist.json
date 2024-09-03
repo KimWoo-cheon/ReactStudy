@@ -1,0 +1,110 @@
+{
+    "list" : [ 
+        {
+            "no" : 1,
+            "name" : "Jude Bellingham",
+            "position" : "Attacking Midfield",
+            "Age" : 21,
+            "price" : "€180.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/418.png?lm=1697726166",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/581678-1693987944.jpg?lm=1"
+
+        },
+        {
+            "no" : 2,
+            "name" : "Erling Haaland",
+            "position" : "Centre-Forward",
+            "Age" : 23,
+            "price" : "€180.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/125.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/281.png?lm=1467356331",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/418560-1709108116.png?lm=1"
+
+        },
+
+        {
+            "no" : 3,
+            "name" : "Vinicius Junior",
+            "position" : "Left Winger",
+            "Age" : 23,
+            "price" : "€180.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/26.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/418.png?lm=1697726166",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/371998-1664869583.jpg?lm=1"
+
+        },
+
+        {
+            "no" : 4,
+            "name" : "Kylian Mbappé",
+            "position" : "Centre-Forward",
+            "Age" : 25,
+            "price" : "€180.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/50.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/418.png?lm=1697726166",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/342229-1682683695.jpg?lm=1"
+
+        },
+        {
+            "no" : 5,
+            "name" : "Phil Foden",
+            "position" : "Right Winger",
+            "Age" : 24,
+            "price" : "€150.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/281.png?lm=1467356331",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/406635-1668524492.jpg?lm=1"
+
+        },
+        {
+            "no" : 6,
+            "name" : "Bukayo Saka",
+            "position" : "Right Winger",
+            "Age" : 22,
+            "price" : "€140.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/189.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/11.png?lm=1489787850",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/433177-1684155052.jpg?lm=1"
+
+        },
+        {
+            "no" : 7,
+            "name" : "Florian Wirtz",
+            "position" : "Attacking Midfield",
+            "Age" : 21,
+            "price" : "€130.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/15.png?lm=1710156317",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/598577-1689710503.jpg?lm=1"
+
+        }
+        ,
+        {
+            "no" : 8,
+            "name" : "Jamal Musiala",
+            "position" : "Attacking Midfield",
+            "Age" : 21,
+            "price" : "€120.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/40.png?lm=1520612525",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/27.png?lm=1498251238",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/580195-1711745441.jpg?lm=1"
+
+        },
+        {
+            "no" : 9,
+            "name" : "Federico Valverde",
+            "position" : "Central Midfield",
+            "Age" : 25,
+            "price" : "€120.00m ",
+            "country" : "https://tmssl.akamaized.net/images/flagge/verysmall/179.png?lm=1520611569",
+            "club" :"https://tmssl.akamaized.net/images/wappen/verysmall/418.png?lm=1697726166",
+            "imgSrc" : "https://img.a.transfermarkt.technology/portrait/big/369081-1681999815.jpg?lm=1"
+
+        }
+
+        
+
+
+    ]
+}

@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+*{
+  font-family: 'Pretendard-Regular';
+}
+
+.container{
+  height : 100vh;
+  width: 100vw;
+  display: block;
+}
+
+.container>div{
+  display: flex;
+  align-items: center;  
+}
+.header-container{
+  background-color: rgb(207, 231, 253);
+  height: 10%;
+  justify-content: space-between;
+}
+
+.header-container div{
+  margin: 5% ;
+  font-size: 1.5em;
+}
+
+.footer-container{
+  background-color: rgb(65, 161, 252);
+  height: 10%;
+  justify-content: center;
+}
+
+.main-container{
+  background-color: whitesmoke;
+  height: 80%;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 5%;
+  box-sizing: border-box;
+
+  overflow: auto;
+}
+
+.link-container *{
+
+  color: black;
+  text-decoration: none;
+}
+a{
+  padding:3px;
+}
+
+.list-container{
+  position: relative;
+  height: 80%;
+  overflow: auto;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-wrap: wrap;
+
+  padding: 5%;
+  box-sizing: border-box;
+}
+
+.list-container>div{
+  flex-basis: 25%;
+}
+
+.detail-item {
+  height : 80%;
+  background: linear-gradient(to bottom right,rgb(58, 58, 58),white,silver, rgb(161, 161, 161),silver ,white,rgb(139, 139, 139),rgb(56, 56, 56));
+  border-radius: 20px;
+  padding: 6% 10%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+ 
+  color: rgb(0, 0, 0); 
+  font-weight: bold; 
+  box-sizing: content-box;
+  
+}
+
+.product-container{
+  margin: 5px;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding : 10px;
+
+  height: 50%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  
+  box-sizing: content-box;
+  overflow: hidden;
+}
+.product-container:hover {
+  background: linear-gradient(to bottom right, rgb(252, 171, 171), rgb(252, 224, 174), rgb(255, 255, 170), rgb(153, 241, 153), rgb(140, 140, 255), rgb(216, 165, 255), rgb(255, 190, 255));
+}
+
+
+.product-container>p{
+  margin:2px;
+  box-sizing: content-box;
+}
+.detail-item>h4{
+  margin: 10px;
+}.detail-item>h3{
+  margin: 10px;
+}
+.detail-item>span{
+  margin: 
+  5px;
+}
+.left-button {
+  position: fixed;
+  left: 10%;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000;
+}
+
+.right-button {
+  position: fixed;
+  right: 10%;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000;
+}

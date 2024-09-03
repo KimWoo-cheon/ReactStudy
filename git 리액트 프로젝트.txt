@@ -1,0 +1,4 @@
+React Project는 워낙 무겁기 때문에 git에 올릴 때 노드 모듈 폴더가 없어진 채로 올라간다
+-> 그렇기 때문에 내가 github에서 pull 받거나 다운로드 받는 React Project에는 노드모듈이 없는 상태
+-> 내가 원하는 프로젝트에 npm install + enter
+package.json에 적힌 버전을 기반으로 자동 전체설치
